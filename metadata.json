@@ -1,0 +1,7 @@
+{
+  "name": "All India PIN code and adress Finder",
+  "description": "A comprehensive, world-class tool to search and verify PIN codes and Post Office details across India. Fast, free, and mobile-friendly.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
